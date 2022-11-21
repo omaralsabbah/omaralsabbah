@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omaralsabbah
-- 👀 I’m interested in programming as a career shift 
-- 🌱 I’m currently learning c and python mainly 
+- 👀 I’m interested in AI and Data science
+- 🌱 I’m currently learning applying machine learning models using python
 - 📫 How to reach me : omar.sabbah_15@hotmail.com
 
 <!---
