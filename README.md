@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omaralsabbah
 - 👀 I’m interested in AI and Data science
-- 🌱 I’m currently learning applying machine learning models using python
+- 🌱 I’m diving deeper into machine learning 
 - 📫 How to reach me : omar.sabbah_15@hotmail.com
 
 <!---
