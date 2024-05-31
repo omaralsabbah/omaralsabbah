@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omaralsabbah
-- 👀 I’m interested in AI and Data science
-- 🌱 I’m diving deeper into machine learning 
+- 👀 I’m a data scientist and machine learning engineer
+- 🌱 I’m diving deeper into machine learning with Azure for higher scalability and efficiency
 - 📫 How to reach me : omar.sabbah_15@hotmail.com
 
 <!---
